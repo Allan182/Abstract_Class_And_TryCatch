@@ -9,7 +9,6 @@ export class Felino extends Animal {
     miar() {
         return "O " + this.constructor.name + " " + super.nome + " Está Miando!!!";
     }
-
     ronronar() {
         return "O " + this.constructor.name + " " + super.nome + " Está Ronronando!!!";
     }

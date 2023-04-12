@@ -24,7 +24,6 @@ export class Ave extends Animal {
         return "O " + super.andar()  + " Está Andando sob Duas Patas!!!";
 
     }
-
 }
 
 

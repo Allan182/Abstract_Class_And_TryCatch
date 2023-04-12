@@ -24,8 +24,6 @@ export class Canino extends Animal {
     andar() {
         return "O " + super.constructor.name + " " + super.nome + " Está Andando sob Quatro Patas!!!";
     }
-
-
 }
 
 
