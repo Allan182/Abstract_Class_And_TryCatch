@@ -1,11 +1,10 @@
 export class Animal {
-
     #nome;
     #especie;
     #altura;
     #peso;
     #dataNascimento;
-
+    
     constructor(nome, especie, altura, peso, dataNascimento) {
 
         if (this.constructor != Animal) {
