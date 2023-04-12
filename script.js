@@ -6,6 +6,7 @@ import { Animal } from "./Animal.js";
 
 let vetObjetos = [];
 
+
 try {
     const canino = new Canino("Spyke", "Normal-Type", "1.90", "90KG", "23/08/2002"); // Testes de Criação de Objetos and Call Methods
     const felino = new Felino("Growlithe", "Fire-Type", "2.90", "120KG", "03/02/2000"); // Testes de Criação de Objetos and Call Methods
